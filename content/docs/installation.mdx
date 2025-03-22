@@ -1,0 +1,62 @@
+---
+title: Installation
+description: Installation
+---
+
+import { Step, Steps } from 'fumadocs-ui/components/steps';
+import { File, Folder, Files } from 'fumadocs-ui/components/files';
+ 
+Welcome to **installation**! This page will guide you through the setup process to get your documentation site up and running smoothly. Let’s dive into the installation steps.
+
+<Steps>
+<Step>
+
+## Prerequisites
+
+Before starting, make sure you have the following installed:
+
+- **Node.js** (v14 or higher recommended)
+- **npm** or **yarn** package manager
+
+If you haven’t installed Node.js, you can download it from [nodejs.org](https://nodejs.org/).
+
+</Step>
+ 
+<Step>
+ 
+## Installing
+
+To add it to your project, use the following command in your terminal:
+
+```bash
+npm install your-library
+```
+
+or
+
+```bash
+yarn add your-library
+```
+
+</Step>
+<Step>
+## Initial Setup
+
+Once installed, import Voxlet UI Docs into your project’s main file (e.g., `app.tsx` or `index.tsx`) to initialize it.
+
+### Example Setup
+
+```jsx
+import YourLibrary from "your-library";
+
+const docs = new YourLibrary({
+  theme: "light",
+  language: "en",
+});
+
+docs.init();
+```
+
+</Step>
+
+</Steps>

@@ -1,0 +1,15 @@
+{
+  "root": true,
+  "pages": [
+    "---Getting Started---",
+    "index",
+    "installation",
+    "---Example Pages---",
+    "...example-pages",
+    "---More---",
+    "...more",
+    "---Others---",
+    "[Github](https://github.com/voxletlabs)",
+    "[Get Template](https://voxlet-ui.vercel.app/templates/voxlet-ui-docs)"
+  ]
+}
