@@ -19,8 +19,6 @@ Built with **Next.js** and **TypeScript**, this template leverages modern web te
 - ✅ Tailwind CSS
 - ✅ Fuma Docs
 
----
-
 ## Why Choose Voxlet UI Docs?
 
 Voxlet UI Docs isn’t just another documentation template. It’s a premium, high-performance solution designed to make documenting your project as easy and efficient as possible. Whether you're showcasing an API, a product, or any other service, Voxlet UI Docs ensures your users will have an enjoyable experience while navigating through your content.
